@@ -1,4 +1,4 @@
-# Orb Rush
+# Orb Frenzy
 
 A small three.js game for [start.ng](https://start.ng). You play as your own start.ng character: grab golden orbs, dodge the red spikes, chain pickups into combos before the 45-second clock runs out.
 
